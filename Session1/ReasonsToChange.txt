@@ -1,0 +1,11 @@
+
+
+Change in Employee Attributes
+Change in Database
+Changes in Taxes
+
+
+Lets change Database Save to another Class Called EmployeeRepository
+Lets changes Taxes to a Different class 
+
+Now we will be having only one reason to change
